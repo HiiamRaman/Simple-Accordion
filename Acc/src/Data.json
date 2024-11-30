@@ -1,0 +1,24 @@
+{
+  "Faqs": [
+    {
+      "title": "What is Node.js?",
+      "content": "Node.js is a JavaScript runtime built on Chrome's V8 engine. It allows developers to run JavaScript code on the server side, enabling backend development with JavaScript."
+    },
+    {
+      "title": "What is MongoDB?",
+      "content": "MongoDB is a NoSQL database that stores data in a flexible, JSON-like format. It is designed for scalability and performance, making it a popular choice for modern applications."
+    },
+    {
+      "title": "What is REST API?",
+      "content": "REST (Representational State Transfer) API is a web service architecture that allows communication between a client and server using HTTP requests. It is stateless and follows a standard set of HTTP methods like GET, POST, PUT, and DELETE."
+    },
+    {
+      "title": "What is GraphQL?",
+      "content": "GraphQL is a query language for APIs that allows clients to request exactly the data they need. It provides a more efficient and flexible alternative to REST APIs."
+    },
+    {
+      "title": "What is Docker?",
+      "content": "Docker is a platform that allows developers to package applications into containers. Containers include everything needed to run the application, ensuring consistency across different environments."
+    }
+  ]
+}
